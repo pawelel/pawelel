@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Paweł
+- 👋 Hi, I’m Paweł  
 My notes are placed on [Gist](https://gist.github.com/pawelel) and [My Knowledge Tree](https://pawelel.github.io)
 
 <!---
