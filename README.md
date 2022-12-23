@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paweł  
-Feel free to check [My Knowledge Tree](https://pawelel.github.io)
+Feel free to check [My Knowledge Tree](https://pawelel.github.io) or [Gist](https://gist.github.com/pawelel)
 
 <!---
 pawelel/pawelel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
